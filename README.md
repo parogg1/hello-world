@@ -1,4 +1,4 @@
 # hello-world
-To jest mój pierwszy projekt na github.
+To jest pierwszy i jedyny projekt na github.
 
 Pora żeby coś napisać. To będą pierwsze zmiany w tym projekcie.
